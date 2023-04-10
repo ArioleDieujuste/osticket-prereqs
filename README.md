@@ -39,7 +39,7 @@ After creating your resource group in Microsoft Azure. Create a virtual machine,
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/q04Fqns.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In this section, I will be installing "PHP Manager for IIS", "Rewrite Module", "PHP 7.3.8", MySQL", osTIcket then finally create a "C:/PHP" directory. After installing all files, open IIS as an admin, register PHP from withing IIS, reload IIS (open IIS, stop and start the server).
