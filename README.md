@@ -50,7 +50,7 @@ Go to sites -> Default -> osTicket, on the right, click “Browse *:80”, go ba
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nkF1tjp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 Assign Permissions: ost-config.php
 Disable inheritance -> Remove All
