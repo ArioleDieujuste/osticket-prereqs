@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After creating your resource group in Microsoft Azure. Create a virtual machine, with Windows 10 and 2-4 virtual CPU's. Add a usser name and password doe the VM and then it is time to start installing files.
+After creating your resource group in Microsoft Azure. Create a virtual machine, with Windows 10 and 2-4 virtual CPU's. Add a username and password to the VM and now it is time to start installing files for osTIcket.
 </p>
 <br />
 
@@ -42,7 +42,7 @@ After creating your resource group in Microsoft Azure. Create a virtual machine,
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this section, I will be installing "PHP Manager for IIS", "Rewrite Module", "PHP 7.3.8", MySQL", osTIcket then finally create a "C:/PHP" directory. After installing all files, open IIS as an admin, register PHP from withing IIS, reload IIS (open IIS, stop and start the server.
 </p>
 <br />
 
