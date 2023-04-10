@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/q04Fqns.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After creating your resource group in Microsoft Azure. Create a virtual machine, with Windows 10 and 2-4 virtual CPU's. Add a username and password to the VM and now it is time to start installing files for osTIcket.
+Log onto your Microsoft Azure account and first create a resource group. Then create a Windows 10 virtual machine with 2-4 virtual CPU's. After creating the VM, a (Vnet) should automatically be created. Lastly, add both a password and username, now we may start installing files.
 </p>
 <br />
 
