@@ -8,7 +8,7 @@ This tutorial outlines the creation of a Microsoft Azure Virtual Machine of the 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: How To  Create Virtual Machine in Azure](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
